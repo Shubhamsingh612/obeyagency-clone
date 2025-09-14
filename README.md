@@ -1,5 +1,5 @@
 # obeyagency-clone 
-http://obeyagency.in/
+https://obey-agency1.netlify.app/
 first project of web dev
 ├── LICENSE
 ├── README.md

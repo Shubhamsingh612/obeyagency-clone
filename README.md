@@ -1,2 +1,27 @@
 # obeyagency-clone
 first project of web dev
+├── LICENSE
+├── README.md
+├── favicon.ico
+├── image
+    ├── Laxer.png
+    ├── Makhno_First.png
+    ├── flower.png
+    ├── girl.png
+    ├── ice1.png
+    ├── ice2.png
+    ├── img1...png
+    ├── img1.jpg
+    ├── img1.png
+    ├── img2.png
+    ├── img3..png
+    ├── img3.png
+    ├── img4...png
+    ├── img4..png
+    ├── img4.png
+    ├── shortgirl.png
+    ├── tree.png
+    └── tree2.png
+├── index.html
+├── script.js
+└── style.css
